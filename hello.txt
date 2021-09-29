@@ -5,5 +5,6 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git! master test
+Hello Git! hot-fix test
 Hello Git!
 7777777777
