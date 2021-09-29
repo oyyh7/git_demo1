@@ -1,5 +1,5 @@
-Hello Git! 8888
-Hello Git! 9999
+Hello Git! 8
+Hello Git! 9
 Hello Git!
 Hello Git!
 Hello Git!
